@@ -1,0 +1,4 @@
+192.168.0.180 - - [23/Aug/2017:23:35:04 +0800] "GET /8989.mp3 HTTP/1.1" 206 1 "http://192.168.0.73/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
+192.168.0.180 - - [23/Aug/2017:23:35:04 +0800] "GET /8989.mp3 HTTP/1.1" 206 13008499 "http://192.168.0.73/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
+192.168.0.180 - - [23/Aug/2017:23:45:59 +0800] "GET /ybc.html HTTP/1.1" 304 - "http://192.168.0.73/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
+192.168.0.180 - - [23/Aug/2017:23:45:59 +0800] "GET /bk/736189889.jpg HTTP/1.1" 304 - "http://192.168.0.73/ybc.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"

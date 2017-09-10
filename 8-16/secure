@@ -1,0 +1,182 @@
+Aug 14 03:57:49 localhost sshd[9405]: Accepted password for root from 192.168.0.122 port 53892 ssh2
+Aug 14 03:57:50 localhost sshd[9405]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 14 04:22:00 localhost polkitd[634]: Registered Authentication Agent for unix-process:9497:533503 (system bus name :1.45 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 14 04:22:01 localhost polkitd[634]: Unregistered Authentication Agent for unix-process:9497:533503 (system bus name :1.45, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 14 07:22:06 localhost sshd[9405]: pam_unix(sshd:session): session closed for user root
+Aug 14 16:51:14 localhost polkitd[637]: Loading rules from directory /etc/polkit-1/rules.d
+Aug 14 16:51:14 localhost polkitd[637]: Loading rules from directory /usr/share/polkit-1/rules.d
+Aug 14 16:51:14 localhost polkitd[637]: Finished loading, compiling and executing 2 rules
+Aug 14 16:51:14 localhost polkitd[637]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Aug 14 16:51:27 localhost sshd[1199]: Server listening on 0.0.0.0 port 22.
+Aug 14 16:51:27 localhost sshd[1199]: Server listening on :: port 22.
+Aug 14 16:51:37 localhost login: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Aug 14 16:51:37 localhost login: ROOT LOGIN ON tty1
+Aug 14 16:51:55 localhost sshd[2241]: Accepted password for root from 192.168.0.110 port 49325 ssh2
+Aug 14 16:51:56 localhost sshd[2241]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 14 17:34:03 localhost sshd[2759]: Accepted password for root from 192.168.0.119 port 54782 ssh2
+Aug 14 17:34:03 localhost sshd[2759]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 14 18:26:47 localhost sshd[2979]: Accepted password for root from 192.168.0.119 port 63273 ssh2
+Aug 14 18:26:47 localhost sshd[2979]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 14 19:02:50 localhost sshd[2241]: pam_unix(sshd:session): session closed for user root
+Aug 14 19:29:23 localhost sshd[3110]: Accepted password for root from 192.168.0.119 port 54415 ssh2
+Aug 14 19:29:23 localhost sshd[3110]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 14 23:02:28 localhost polkitd[637]: Registered Authentication Agent for unix-process:3538:2228005 (system bus name :1.145 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 14 23:02:30 localhost polkitd[637]: Unregistered Authentication Agent for unix-process:3538:2228005 (system bus name :1.145, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 14 23:03:54 localhost polkitd[637]: Registered Authentication Agent for unix-process:3919:2236620 (system bus name :1.169 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 14 23:03:55 localhost polkitd[637]: Unregistered Authentication Agent for unix-process:3919:2236620 (system bus name :1.169, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 14 23:05:47 localhost polkitd[637]: Registered Authentication Agent for unix-process:4134:2247899 (system bus name :1.182 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 14 23:05:48 localhost polkitd[637]: Unregistered Authentication Agent for unix-process:4134:2247899 (system bus name :1.182, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 14 23:08:20 localhost polkitd[637]: Registered Authentication Agent for unix-process:4354:2263245 (system bus name :1.195 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 14 23:08:21 localhost polkitd[637]: Unregistered Authentication Agent for unix-process:4354:2263245 (system bus name :1.195, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 14 23:13:01 localhost polkitd[637]: Registered Authentication Agent for unix-process:4565:2291308 (system bus name :1.210 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 14 23:13:32 localhost polkitd[637]: Unregistered Authentication Agent for unix-process:4565:2291308 (system bus name :1.210, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 14 23:21:48 localhost sshd[2759]: pam_unix(sshd:session): session closed for user root
+Aug 14 23:36:30 localhost sshd[4945]: Accepted password for root from 192.168.0.119 port 60812 ssh2
+Aug 14 23:36:30 localhost sshd[4945]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 14 23:40:08 localhost sshd[4987]: Accepted password for root from 192.168.0.119 port 61894 ssh2
+Aug 14 23:40:08 localhost sshd[4987]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 15 17:03:43 localhost polkitd[631]: Loading rules from directory /etc/polkit-1/rules.d
+Aug 15 17:03:43 localhost polkitd[631]: Loading rules from directory /usr/share/polkit-1/rules.d
+Aug 15 17:03:43 localhost polkitd[631]: Finished loading, compiling and executing 2 rules
+Aug 15 17:03:43 localhost polkitd[631]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Aug 15 17:03:56 localhost sshd[1308]: Server listening on 0.0.0.0 port 22.
+Aug 15 17:03:56 localhost sshd[1308]: Server listening on :: port 22.
+Aug 15 17:04:03 localhost login: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Aug 15 17:04:03 localhost login: ROOT LOGIN ON tty1
+Aug 15 17:06:46 localhost polkitd[631]: Registered Authentication Agent for unix-process:2313:18937 (system bus name :1.24 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 15 17:06:47 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:2313:18937 (system bus name :1.24, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 15 17:09:38 localhost polkitd[631]: Registered Authentication Agent for unix-process:2546:36104 (system bus name :1.37 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 15 17:09:39 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:2546:36104 (system bus name :1.37, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 15 17:11:16 localhost polkitd[631]: Registered Authentication Agent for unix-process:2776:45939 (system bus name :1.52 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 15 17:11:17 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:2776:45939 (system bus name :1.52, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 15 17:19:38 localhost polkitd[631]: Registered Authentication Agent for unix-process:3845:96088 (system bus name :1.173 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 15 17:19:40 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:3845:96088 (system bus name :1.173, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 15 17:20:38 localhost sshd[4206]: Accepted password for root from 192.168.0.180 port 49903 ssh2
+Aug 15 17:20:38 localhost sshd[4206]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 15 17:29:20 localhost sshd[4247]: Accepted password for root from 192.168.0.180 port 49987 ssh2
+Aug 15 17:29:20 localhost sshd[4247]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 15 17:35:15 localhost sshd[4301]: Accepted password for root from 192.168.0.180 port 50038 ssh2
+Aug 15 17:35:15 localhost sshd[4301]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 16 00:12:14 localhost sshd[11666]: Accepted password for root from 192.168.0.180 port 61689 ssh2
+Aug 16 00:12:14 localhost sshd[11666]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 16 03:48:16 localhost useradd[12074]: new group: name=hubiwu, GID=1003
+Aug 16 03:48:16 localhost useradd[12074]: new user: name=hubiwu, UID=1002, GID=1003, home=/home/hubiwu, shell=/bin/bash
+Aug 16 03:48:29 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 04:59:32 localhost sshd[12186]: Accepted password for root from 192.168.0.180 port 64705 ssh2
+Aug 16 04:59:33 localhost sshd[12186]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 16 05:14:18 localhost useradd[12273]: failed adding user 'hubiwu', exit code: 9
+Aug 16 05:20:49 localhost useradd[12287]: failed adding user 'hubiwu', exit code: 9
+Aug 16 05:21:51 localhost useradd[12299]: new group: name=hubw, GID=1004
+Aug 16 05:21:51 localhost useradd[12299]: new user: name=hubw, UID=1003, GID=1004, home=/home/hubw, shell=/bin/bash
+Aug 16 05:23:31 localhost useradd[12314]: new group: name=hbw, GID=1005
+Aug 16 05:23:31 localhost useradd[12314]: new user: name=hbw, UID=1004, GID=1005, home=/home/hbw, shell=/bin/bash
+Aug 16 05:23:31 localhost passwd: pam_unix(passwd:chauthtok): password changed for hbw
+Aug 16 05:35:57 localhost useradd[12365]: failed adding user 'hubiwu', exit code: 9
+Aug 16 05:35:57 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 05:37:15 localhost useradd[12375]: failed adding user 'hubiwu', exit code: 9
+Aug 16 05:37:15 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 05:38:39 localhost useradd[12390]: failed adding user 'hubiwu', exit code: 9
+Aug 16 05:38:39 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 05:39:28 localhost useradd[12404]: new group: name=uhu, GID=1006
+Aug 16 05:39:28 localhost useradd[12404]: new user: name=uhu, UID=1005, GID=1006, home=/home/uhu, shell=/bin/bash
+Aug 16 05:39:28 localhost passwd: pam_unix(passwd:chauthtok): password changed for uhu
+Aug 16 05:41:12 localhost useradd[12425]: new group: name=hubuiq, GID=1007
+Aug 16 05:41:12 localhost useradd[12425]: new user: name=hubuiq, UID=1006, GID=1007, home=/home/hubuiq, shell=/bin/bash
+Aug 16 05:41:12 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubuiq
+Aug 16 05:51:06 localhost useradd[12505]: failed adding user 'hubiwu', exit code: 9
+Aug 16 05:51:57 localhost useradd[12507]: failed adding user 'hubiwu', exit code: 9
+Aug 16 05:53:03 localhost useradd[12508]: new group: name=hubiwu2233, GID=1008
+Aug 16 05:53:03 localhost useradd[12508]: new user: name=hubiwu2233, UID=1007, GID=1008, home=/home/hubiwu2233, shell=/bin/bash
+Aug 16 05:54:18 localhost useradd[12513]: failed adding user 'hubiwu2233', exit code: 9
+Aug 16 06:00:00 localhost useradd[12529]: failed adding user 'hubiwu', exit code: 9
+Aug 16 06:00:00 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 06:02:56 localhost polkitd[631]: Registered Authentication Agent for unix-process:12569:4675936 (system bus name :1.406 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 06:02:56 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:12569:4675936 (system bus name :1.406, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 06:03:31 localhost groupadd[12597]: group added to /etc/group: name=mysql, GID=27
+Aug 16 06:03:31 localhost groupadd[12597]: group added to /etc/gshadow: name=mysql
+Aug 16 06:03:31 localhost groupadd[12597]: new group: name=mysql, GID=27
+Aug 16 06:03:31 localhost useradd[12601]: new user: name=mysql, UID=27, GID=27, home=/var/lib/mysql, shell=/sbin/nologin
+Aug 16 06:04:12 localhost polkitd[631]: Registered Authentication Agent for unix-process:12624:4683511 (system bus name :1.407 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 06:04:15 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:12624:4683511 (system bus name :1.407, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 06:04:18 localhost polkitd[631]: Registered Authentication Agent for unix-process:12910:4684081 (system bus name :1.410 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 06:04:21 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:12910:4684081 (system bus name :1.410, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 06:12:26 localhost useradd[13176]: failed adding user 'hubiwu', exit code: 9
+Aug 16 06:12:26 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 06:15:21 localhost useradd[13199]: new group: name=hubiwu3421, GID=1009
+Aug 16 06:15:21 localhost useradd[13199]: new user: name=hubiwu3421, UID=1008, GID=1009, home=/home/hubiwu3421, shell=/bin/bash
+Aug 16 06:15:21 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu3421
+Aug 16 06:15:21 localhost useradd[13210]: new group: name=hubiwu342, GID=1010
+Aug 16 06:15:21 localhost useradd[13210]: new user: name=hubiwu342, UID=1009, GID=1010, home=/home/hubiwu342, shell=/bin/bash
+Aug 16 06:15:21 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu342
+Aug 16 06:15:21 localhost useradd[13221]: failed adding user 'hubiwu', exit code: 9
+Aug 16 06:15:21 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 06:19:41 localhost useradd[13257]: failed adding user 'hubiwu', exit code: 9
+Aug 16 06:19:41 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 06:25:03 localhost useradd[13285]: failed adding user 'hubiwu', exit code: 9
+Aug 16 06:25:03 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 06:32:04 localhost useradd[13313]: new group: name=hubiwu4567, GID=1011
+Aug 16 06:32:04 localhost useradd[13313]: new user: name=hubiwu4567, UID=1010, GID=1011, home=/home/hubiwu4567, shell=/bin/bash
+Aug 16 06:32:04 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu4567
+Aug 16 06:32:04 localhost useradd[13324]: failed adding user 'hubiwu', exit code: 9
+Aug 16 06:32:04 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 06:43:40 localhost useradd[13358]: new group: name=hubiwu213123, GID=1012
+Aug 16 06:43:40 localhost useradd[13358]: new user: name=hubiwu213123, UID=1011, GID=1012, home=/home/hubiwu213123, shell=/bin/bash
+Aug 16 06:43:40 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu213123
+Aug 16 06:47:02 localhost sshd[4301]: pam_unix(sshd:session): session closed for user root
+Aug 16 06:47:02 localhost sshd[11666]: pam_systemd(sshd:session): Failed to release session: Interrupted system call
+Aug 16 06:47:02 localhost sshd[11666]: pam_unix(sshd:session): session closed for user root
+Aug 16 06:47:02 localhost sshd[4247]: pam_unix(sshd:session): session closed for user root
+Aug 16 06:47:02 localhost sshd[4206]: pam_unix(sshd:session): session closed for user root
+Aug 16 06:47:02 localhost sshd[12186]: pam_unix(sshd:session): session closed for user root
+Aug 16 08:49:02 localhost sshd[14059]: Accepted password for root from 192.168.0.180 port 49340 ssh2
+Aug 16 08:49:03 localhost sshd[14059]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 16 08:55:01 localhost useradd[14144]: new group: name=hibuwa12, GID=1013
+Aug 16 08:55:01 localhost useradd[14144]: new user: name=hibuwa12, UID=1012, GID=1013, home=/home/hibuwa12, shell=/bin/bash
+Aug 16 08:55:01 localhost passwd: pam_unix(passwd:chauthtok): password changed for hibuwa12
+Aug 16 09:02:07 localhost useradd[14186]: failed adding user 'hubiwu', exit code: 9
+Aug 16 09:02:07 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 09:06:36 localhost useradd[14198]: failed adding user 'hubiwu', exit code: 9
+Aug 16 09:06:36 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 09:07:48 localhost useradd[14209]: failed adding user 'hubiwu', exit code: 9
+Aug 16 09:07:48 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 09:09:09 localhost useradd[14221]: failed adding user 'hubiwu', exit code: 9
+Aug 16 09:09:09 localhost passwd: pam_unix(passwd:chauthtok): password changed for hubiwu
+Aug 16 09:53:37 localhost sshd[14292]: Accepted password for root from 192.168.0.180 port 51387 ssh2
+Aug 16 09:53:37 localhost sshd[14292]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 16 10:42:46 localhost polkitd[631]: Registered Authentication Agent for unix-process:14386:5625897 (system bus name :1.520 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 10:42:46 localhost sshd[1308]: Received signal 15; terminating.
+Aug 16 10:42:46 localhost sshd[14405]: Server listening on 0.0.0.0 port 22.
+Aug 16 10:42:46 localhost sshd[14405]: Server listening on :: port 22.
+Aug 16 10:42:46 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:14386:5625897 (system bus name :1.520, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 10:44:56 localhost polkitd[631]: Registered Authentication Agent for unix-process:14423:5638904 (system bus name :1.521 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 10:45:26 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:14423:5638904 (system bus name :1.521, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 10:48:13 localhost polkitd[631]: Registered Authentication Agent for unix-process:15062:5658602 (system bus name :1.578 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 10:48:42 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:15062:5658602 (system bus name :1.578, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 10:49:53 localhost polkitd[631]: Registered Authentication Agent for unix-process:15659:5668629 (system bus name :1.634 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 10:50:23 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:15659:5668629 (system bus name :1.634, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 10:50:36 localhost polkitd[631]: Registered Authentication Agent for unix-process:16292:5672862 (system bus name :1.695 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 10:51:05 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:16292:5672862 (system bus name :1.695, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 10:51:41 localhost polkitd[631]: Registered Authentication Agent for unix-process:16911:5679401 (system bus name :1.756 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 10:52:04 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:16911:5679401 (system bus name :1.756, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 10:54:27 localhost polkitd[631]: Registered Authentication Agent for unix-process:17640:5695953 (system bus name :1.832 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 10:54:40 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:17640:5695953 (system bus name :1.832, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 10:55:37 localhost polkitd[631]: Registered Authentication Agent for unix-process:18039:5702979 (system bus name :1.868 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 10:55:54 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:18039:5702979 (system bus name :1.868, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 10:59:12 localhost polkitd[631]: Registered Authentication Agent for unix-process:18446:5724477 (system bus name :1.904 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 10:59:29 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:18446:5724477 (system bus name :1.904, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 10:59:44 localhost polkitd[631]: Registered Authentication Agent for unix-process:18803:5727660 (system bus name :1.940 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug 16 10:59:44 localhost polkitd[631]: Unregistered Authentication Agent for unix-process:18803:5727660 (system bus name :1.940, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Aug 16 19:00:04 localhost polkitd[646]: Loading rules from directory /etc/polkit-1/rules.d
+Aug 16 19:00:04 localhost polkitd[646]: Loading rules from directory /usr/share/polkit-1/rules.d
+Aug 16 19:00:04 localhost polkitd[646]: Finished loading, compiling and executing 2 rules
+Aug 16 19:00:04 localhost polkitd[646]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Aug 16 19:00:23 localhost login: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Aug 16 19:00:23 localhost login: ROOT LOGIN ON tty1
+Aug 16 19:00:58 localhost sshd[1329]: Server listening on 0.0.0.0 port 22.
+Aug 16 19:00:58 localhost sshd[1329]: Server listening on :: port 22.
+Aug 16 19:01:31 localhost sshd[2470]: Accepted password for root from 192.168.22.1 port 55262 ssh2
+Aug 16 19:01:31 localhost sshd[2470]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 16 22:31:05 localhost sshd[6694]: Accepted password for root from 192.168.22.1 port 50329 ssh2
+Aug 16 22:31:05 localhost sshd[6694]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Aug 16 23:04:44 localhost sshd[7410]: Accepted password for root from 192.168.22.1 port 55658 ssh2
+Aug 16 23:04:44 localhost sshd[7410]: pam_unix(sshd:session): session opened for user root by (uid=0)

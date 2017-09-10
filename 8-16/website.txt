@@ -1,0 +1,9 @@
+idu http://www.baidu.com  python
+sanle  ftp://192.168.0.1   feng
+qq   http://www.qq.com/cc.html  43
+sina   http://www.sina.com/a.html  hh
+github  https://www.gittee.com  zhou
+HTTP    https://www.kernel.org/pub/  liu
+GIT     https://git.kernel.org/  yang
+RSYNC   rsync://rsync.kernel.org/pub/  hu
+

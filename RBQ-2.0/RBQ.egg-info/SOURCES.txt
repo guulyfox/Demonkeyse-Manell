@@ -1,0 +1,12 @@
+README.rst
+setup.py
+RBQ.egg-info/PKG-INFO
+RBQ.egg-info/SOURCES.txt
+RBQ.egg-info/dependency_links.txt
+RBQ.egg-info/requires.txt
+RBQ.egg-info/top_level.txt
+badapple/__init__.py
+badapple/player.py
+badapple/__MACOSX/__init__.py
+source/__init__.py
+source/systeminfo2.0.py
