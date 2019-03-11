@@ -1,2 +1,2 @@
 # Demonkeyse-Manell
-a student learning progamming
+A progamming chicken
